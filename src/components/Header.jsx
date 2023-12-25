@@ -47,7 +47,7 @@ const Header = () => {
               className="p-2 md:px-4 hover:bg-gray-50 rounded-md flex items-center gap-2"
             >
               <PhoneIcon className="w-4 h-4 text-gray-700" />{" "}
-              <p className="hidden md:block">Contact</p>
+              <p className="hidden md:block">Help</p>
             </Link>
           </li>
           <li>
